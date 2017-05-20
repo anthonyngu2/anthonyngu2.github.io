@@ -1,0 +1,72 @@
+.nav-pills>li.active>a,
+.nav-pills>li.active>a:hover,
+.nav-pills>li.active>a:focus{
+background-color: rgb(255,255,255);
+color: rgb(0,0,0);
+margin-top: 5px;
+}
+
+.nav-pills>li:not(.active) a {
+color: rgb(255,255,255);
+margin-top: 5px;
+}
+
+.navbar-default .navbar-brand>a:not(.active){
+color: rgb(255,255,255);
+}
+
+.navbar-default .navbar-brand{
+margin: 0px;
+}
+
+
+.navbar-default .container-fluid{
+background-color: rgb(0,0,0);
+border-bottom: 0px;
+padding-left: 15px;
+padding-right: 15px;
+padding-bottom: 0 px;
+margin: 0 px;
+}
+
+.navbar-default {
+margin-bottom: 0px;
+border: 0px;
+}
+
+
+#MyNav{
+font-family: "Helvetica";
+}
+
+
+#ProfessionalLifeArea{
+background-color: rgb(255,240,245);
+margin: 0px;
+padding: 15px;
+}
+
+#PersonalLifeArea{
+margin: 0px;
+padding-right: 15px;
+}
+
+#Ignite {
+padding-top: 10px;
+padding-bottom: 10px ;
+}
+
+#Totoro {
+padding-top: 10px;
+padding-bottom: 10px;	
+}
+
+#WorkExperienceTitle, #EducationTitle, #SkillsTitle {
+font-family: times, Times New Roman, times-roman, georgia, serif;	
+}
+
+#WorkExperienceArea, #EducationArea, #SkillsArea {
+font-family: Georgia, serif;	
+}
+
+
